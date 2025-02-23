@@ -1,2 +1,2 @@
-# Counterfeit-Notes-Detector
-Counterfeit Notes Detector employs sophisticated methods such as image processing, UV detection, and pattern recognition to authenticate the security features of currency. This technology guarantees quick and precise detection, minimizes errors, and accommodates various currencies for banks and businesses.
+# Conversational AI for Customer Service
+Design a conversational AI system capable of delivering context-aware and personalized customer service. The system should understand and remember user queries across sessions, provide accurate responses, and handle multi-turn conversations seamlessly. Features may include natural language understanding (NLU), sentiment analysis, multilingual support, and integration with CRM tools. This solution aims to improve customer satisfaction by offering instant, intelligent, and engaging support for businesses across various industries.
